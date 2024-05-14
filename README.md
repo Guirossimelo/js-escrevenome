@@ -1,1 +1,1 @@
-# js-bolinhasaleatorias
+# js-bolinhas.aleatorias
